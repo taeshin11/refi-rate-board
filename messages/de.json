@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "lenders": "Kreditgeber",
+    "states": "Nach Bundesstaat",
+    "calculator": "Rechner",
+    "loanTypes": "Kreditarten",
+    "whenToRefi": "Wann Refinanzieren"
+  },
+  "hero": {
+    "title": "Heutige Hypotheken-Refinanzierungsraten",
+    "subtitle": "Vergleiche Refi-Raten von {count} Kreditgebern — täglich aktualisiert",
+    "asOf": "Raten vom",
+    "source": "Quelle: Federal Reserve (FRED)"
+  },
+  "rates": {
+    "30yr": "30-Jahr Fix Refi",
+    "15yr": "15-Jahr Fix Refi",
+    "arm": "5/1 ARM Refi",
+    "cashOut": "Auszahlungs-Refi",
+    "va": "VA IRRRL",
+    "fha": "FHA Streamline",
+    "jumbo": "Jumbo Refi",
+    "weekChange": "vs. letzte Woche",
+    "apr": "Effektivzins",
+    "points": "Punkte"
+  },
+  "chart": {
+    "title": "52-Wochen Refinanzierungsraten-Trend",
+    "label30": "30-Jahr Fix",
+    "label15": "15-Jahr Fix",
+    "labelArm": "5/1 ARM",
+    "loading": "Diagrammdaten werden geladen..."
+  },
+  "lenders": {
+    "title": "Refi-Kreditgeber Vergleichen",
+    "subtitle": "Beste Refinanzierungsraten von Top-Kreditgebern",
+    "sortBy": "Sortieren nach",
+    "rate": "Rate",
+    "lender": "Kreditgeber",
+    "apply": "Jetzt Beantragen",
+    "viewAll": "Alle Kreditgeber Anzeigen",
+    "minCredit": "Min. Kreditbewertung",
+    "minEquity": "Min. Eigenkapital"
+  },
+  "calculator": {
+    "title": "Refinanzierungs-Einsparungsrechner",
+    "currentBalance": "Aktueller Kreditsaldo",
+    "currentRate": "Aktueller Zinssatz (%)",
+    "currentTerm": "Verbleibende Laufzeit (Monate)",
+    "newRate": "Neuer Zinssatz (%)",
+    "newTerm": "Neue Laufzeit (Monate)",
+    "closingCosts": "Geschätzte Abschlusskosten",
+    "calculate": "Einsparungen Berechnen",
+    "monthlySavings": "Monatliche Einsparungen",
+    "breakEven": "Amortisation in",
+    "lifetimeSavings": "Gesamteinsparungen",
+    "newPayment": "Neue Monatliche Zahlung",
+    "currentPayment": "Aktuelle Monatliche Zahlung",
+    "useTodayRate": "Heutigen Zinssatz Verwenden"
+  },
+  "footer": {
+    "visitorToday": "Besucher heute",
+    "visitorTotal": "Gesamtbesucher",
+    "disclaimer": "Raten sind nur zur Information. Kontaktieren Sie Kreditgeber für individuelle Angebote.",
+    "copyright": "© 2026 RefiRateBoard. Alle Rechte vorbehalten."
+  },
+  "states": {
+    "title": "Refinanzierungsraten nach Bundesstaat",
+    "subtitle": "Finden Sie Refinanzierungsraten in Ihrem Bundesstaat",
+    "viewRates": "Raten Ansehen",
+    "avgRate": "Durchschnittl. Refi-Rate",
+    "closingCost": "Gesch. Abschlusskosten"
+  },
+  "meta": {
+    "homeTitle": "Heutige Refinanzierungsraten (April 2026) — 30, 15 Jahre und ARM | RefiRateBoard",
+    "homeDesc": "Vergleiche heutige Refinanzierungsraten von Top-Kreditgebern. Täglich aktualisierte 30- und 15-Jahres-Raten.",
+    "lendersTitle": "Refi-Kreditgeber Vergleichen | RefiRateBoard",
+    "calculatorTitle": "Refinanzierungsrechner | RefiRateBoard",
+    "statesTitle": "Refinanzierungsraten nach Bundesstaat | RefiRateBoard"
+  }
+}

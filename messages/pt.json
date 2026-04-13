@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "Início",
+    "lenders": "Credores",
+    "states": "Por Estado",
+    "calculator": "Calculadora",
+    "loanTypes": "Tipos de Empréstimo",
+    "whenToRefi": "Quando Refinanciar"
+  },
+  "hero": {
+    "title": "Taxas de Refinanciamento Hipotecário de Hoje",
+    "subtitle": "Compare taxas de {count} credores — atualizado diariamente",
+    "asOf": "Taxas em",
+    "source": "Fonte: Reserva Federal (FRED)"
+  },
+  "rates": {
+    "30yr": "Refi fixo 30 anos",
+    "15yr": "Refi fixo 15 anos",
+    "arm": "Refi ARM 5/1",
+    "cashOut": "Refi com saque",
+    "va": "VA IRRRL",
+    "fha": "FHA Simplificado",
+    "jumbo": "Refi Jumbo",
+    "weekChange": "vs semana passada",
+    "apr": "TAE",
+    "points": "Pontos"
+  },
+  "chart": {
+    "title": "Tendência de Taxas de Refinanciamento 52 Semanas",
+    "label30": "Fixo 30 anos",
+    "label15": "Fixo 15 anos",
+    "labelArm": "ARM 5/1",
+    "loading": "Carregando dados do gráfico..."
+  },
+  "lenders": {
+    "title": "Comparar Credores de Refinanciamento",
+    "subtitle": "Melhores taxas de refinanciamento dos principais credores",
+    "sortBy": "Ordenar por",
+    "rate": "Taxa",
+    "lender": "Credor",
+    "apply": "Solicitar Agora",
+    "viewAll": "Ver Todos os Credores",
+    "minCredit": "Pontuação Mínima",
+    "minEquity": "Patrimônio Mínimo"
+  },
+  "calculator": {
+    "title": "Calculadora de Economia de Refinanciamento",
+    "currentBalance": "Saldo Atual do Empréstimo",
+    "currentRate": "Taxa Atual (%)",
+    "currentTerm": "Prazo Restante (meses)",
+    "newRate": "Nova Taxa (%)",
+    "newTerm": "Novo Prazo (meses)",
+    "closingCosts": "Custos de Fechamento Estimados",
+    "calculate": "Calcular Economia",
+    "monthlySavings": "Economia Mensal",
+    "breakEven": "Ponto de Equilíbrio em",
+    "lifetimeSavings": "Economia Total",
+    "newPayment": "Novo Pagamento Mensal",
+    "currentPayment": "Pagamento Mensal Atual",
+    "useTodayRate": "Usar Taxa de Hoje"
+  },
+  "footer": {
+    "visitorToday": "Visitantes hoje",
+    "visitorTotal": "Total de visitantes",
+    "disclaimer": "As taxas são apenas para referência. Contate os credores diretamente para cotações personalizadas.",
+    "copyright": "© 2026 RefiRateBoard. Todos os direitos reservados."
+  },
+  "states": {
+    "title": "Taxas de Refinanciamento por Estado",
+    "subtitle": "Encontre taxas de refinanciamento no seu estado",
+    "viewRates": "Ver Taxas",
+    "avgRate": "Taxa Média de Refi",
+    "closingCost": "Custo de Fechamento Est."
+  },
+  "meta": {
+    "homeTitle": "Taxas de Refinanciamento de Hoje (Abril 2026) — 30, 15 anos e ARM | RefiRateBoard",
+    "homeDesc": "Compare as taxas de refinanciamento de hoje dos principais credores. Atualizadas diariamente.",
+    "lendersTitle": "Comparar Credores de Refinanciamento | RefiRateBoard",
+    "calculatorTitle": "Calculadora de Refinanciamento | RefiRateBoard",
+    "statesTitle": "Taxas de Refinanciamento por Estado | RefiRateBoard"
+  }
+}

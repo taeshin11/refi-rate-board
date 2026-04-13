@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "Home",
+    "lenders": "Lenders",
+    "states": "States",
+    "calculator": "Calculator",
+    "loanTypes": "Loan Types",
+    "whenToRefi": "When to Refi"
+  },
+  "hero": {
+    "title": "Today's Mortgage Refinance Rates",
+    "subtitle": "Compare refi rates from {count} lenders — updated daily",
+    "asOf": "Rates as of",
+    "source": "Source: Federal Reserve (FRED)"
+  },
+  "rates": {
+    "30yr": "30-Year Fixed Refi",
+    "15yr": "15-Year Fixed Refi",
+    "arm": "5/1 ARM Refi",
+    "cashOut": "Cash-Out Refi",
+    "va": "VA IRRRL",
+    "fha": "FHA Streamline",
+    "jumbo": "Jumbo Refi",
+    "weekChange": "vs last week",
+    "apr": "APR",
+    "points": "Points"
+  },
+  "chart": {
+    "title": "52-Week Refi Rate Trend",
+    "label30": "30-Year Fixed",
+    "label15": "15-Year Fixed",
+    "labelArm": "5/1 ARM",
+    "loading": "Loading chart data..."
+  },
+  "lenders": {
+    "title": "Compare Refi Lenders",
+    "subtitle": "Today's best refinance rates from top lenders",
+    "sortBy": "Sort by",
+    "rate": "Rate",
+    "lender": "Lender",
+    "apply": "Apply Now",
+    "viewAll": "View All Lenders",
+    "minCredit": "Min. Credit Score",
+    "minEquity": "Min. Equity"
+  },
+  "calculator": {
+    "title": "Refi Savings Calculator",
+    "currentBalance": "Current Loan Balance",
+    "currentRate": "Current Rate (%)",
+    "currentTerm": "Remaining Term (months)",
+    "newRate": "New Rate (%)",
+    "newTerm": "New Term (months)",
+    "closingCosts": "Estimated Closing Costs",
+    "calculate": "Calculate Savings",
+    "monthlySavings": "Monthly Savings",
+    "breakEven": "Break-even in",
+    "lifetimeSavings": "Lifetime Savings",
+    "newPayment": "New Monthly Payment",
+    "currentPayment": "Current Monthly Payment",
+    "useTodayRate": "Use Today's Rate"
+  },
+  "footer": {
+    "visitorToday": "Visitors today",
+    "visitorTotal": "Total visitors",
+    "disclaimer": "Rates are for informational purposes only. Contact lenders directly for personalized quotes. RefiRateBoard is not a licensed mortgage broker.",
+    "copyright": "© 2026 RefiRateBoard. All rights reserved."
+  },
+  "states": {
+    "title": "Refi Rates by State",
+    "subtitle": "Find refinance rates in your state",
+    "viewRates": "View Rates",
+    "avgRate": "Avg. Refi Rate",
+    "closingCost": "Est. Closing Cost"
+  },
+  "meta": {
+    "homeTitle": "Today's Refinance Rates (April 2026) — 30yr, 15yr & ARM | RefiRateBoard",
+    "homeDesc": "Compare today's refinance rates from top lenders. Current 30-year, 15-year, cash-out, VA, and FHA refi rates updated daily. Free break-even calculator.",
+    "lendersTitle": "Compare Refinance Lenders | RefiRateBoard",
+    "calculatorTitle": "Refinance Calculator — Monthly Savings & Break-Even | RefiRateBoard",
+    "statesTitle": "Refi Rates by State | RefiRateBoard"
+  }
+}

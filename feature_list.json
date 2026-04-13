@@ -1,0 +1,21 @@
+{
+  "project": "refi-rate-board",
+  "version": "1.0.0",
+  "features": [
+    { "id": "F01", "name": "Homepage rate dashboard", "status": "complete" },
+    { "id": "F02", "name": "Lender detail pages", "status": "complete" },
+    { "id": "F03", "name": "State pages", "status": "complete" },
+    { "id": "F04", "name": "Loan type pages", "status": "complete" },
+    { "id": "F05", "name": "Refinance calculator", "status": "complete" },
+    { "id": "F06", "name": "52-week trend chart", "status": "complete" },
+    { "id": "F07", "name": "Lender comparison table", "status": "complete" },
+    { "id": "F08", "name": "Break-even analysis", "status": "complete" },
+    { "id": "F09", "name": "i18n 8 locales", "status": "complete" },
+    { "id": "F10", "name": "Visitor counter", "status": "complete" },
+    { "id": "F11", "name": "Google Sheets webhook", "status": "placeholder" },
+    { "id": "F12", "name": "Adsterra ads", "status": "placeholder" },
+    { "id": "F13", "name": "SEO sitemap hreflang schema", "status": "complete" },
+    { "id": "F14", "name": "ISR 24h revalidation", "status": "complete" },
+    { "id": "F15", "name": "Research history logs", "status": "complete" }
+  ]
+}

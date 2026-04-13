@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "lenders": "Prêteurs",
+    "states": "Par État",
+    "calculator": "Calculatrice",
+    "loanTypes": "Types de Prêt",
+    "whenToRefi": "Quand Refinancer"
+  },
+  "hero": {
+    "title": "Taux de Refinancement Hypothécaire du Jour",
+    "subtitle": "Comparez les taux de {count} prêteurs — mis à jour quotidiennement",
+    "asOf": "Taux au",
+    "source": "Source : Réserve Fédérale (FRED)"
+  },
+  "rates": {
+    "30yr": "Refi fixe 30 ans",
+    "15yr": "Refi fixe 15 ans",
+    "arm": "Refi ARM 5/1",
+    "cashOut": "Refi avec retrait",
+    "va": "VA IRRRL",
+    "fha": "FHA simplifié",
+    "jumbo": "Refi Jumbo",
+    "weekChange": "vs semaine dernière",
+    "apr": "TAEG",
+    "points": "Points"
+  },
+  "chart": {
+    "title": "Tendance des Taux de Refinancement sur 52 Semaines",
+    "label30": "Fixe 30 ans",
+    "label15": "Fixe 15 ans",
+    "labelArm": "ARM 5/1",
+    "loading": "Chargement des données..."
+  },
+  "lenders": {
+    "title": "Comparer les Prêteurs Refi",
+    "subtitle": "Meilleurs taux de refinancement du jour",
+    "sortBy": "Trier par",
+    "rate": "Taux",
+    "lender": "Prêteur",
+    "apply": "Postuler Maintenant",
+    "viewAll": "Voir Tous les Prêteurs",
+    "minCredit": "Score Minimum",
+    "minEquity": "Capitaux Propres Min."
+  },
+  "calculator": {
+    "title": "Calculatrice d'Économies de Refinancement",
+    "currentBalance": "Solde Actuel du Prêt",
+    "currentRate": "Taux Actuel (%)",
+    "currentTerm": "Durée Restante (mois)",
+    "newRate": "Nouveau Taux (%)",
+    "newTerm": "Nouvelle Durée (mois)",
+    "closingCosts": "Frais de Clôture Estimés",
+    "calculate": "Calculer les Économies",
+    "monthlySavings": "Économies Mensuelles",
+    "breakEven": "Seuil de Rentabilité en",
+    "lifetimeSavings": "Économies Totales",
+    "newPayment": "Nouveau Paiement Mensuel",
+    "currentPayment": "Paiement Mensuel Actuel",
+    "useTodayRate": "Utiliser le Taux du Jour"
+  },
+  "footer": {
+    "visitorToday": "Visiteurs aujourd'hui",
+    "visitorTotal": "Visiteurs totaux",
+    "disclaimer": "Les taux sont indicatifs. Contactez les prêteurs pour des devis personnalisés.",
+    "copyright": "© 2026 RefiRateBoard. Tous droits réservés."
+  },
+  "states": {
+    "title": "Taux de Refinancement par État",
+    "subtitle": "Trouvez des taux de refinancement dans votre état",
+    "viewRates": "Voir les Taux",
+    "avgRate": "Taux Moyen Refi",
+    "closingCost": "Frais de Clôture Est."
+  },
+  "meta": {
+    "homeTitle": "Taux de Refinancement du Jour (Avril 2026) — 30, 15 ans et ARM | RefiRateBoard",
+    "homeDesc": "Comparez les taux de refinancement du jour. 30 ans, 15 ans, retrait, VA et FHA mis à jour quotidiennement.",
+    "lendersTitle": "Comparer les Prêteurs Refi | RefiRateBoard",
+    "calculatorTitle": "Calculatrice de Refinancement | RefiRateBoard",
+    "statesTitle": "Taux de Refinancement par État | RefiRateBoard"
+  }
+}

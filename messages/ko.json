@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "홈",
+    "lenders": "대출기관",
+    "states": "주별 금리",
+    "calculator": "계산기",
+    "loanTypes": "대출 유형",
+    "whenToRefi": "재융자 시기"
+  },
+  "hero": {
+    "title": "오늘의 모기지 재융자 금리",
+    "subtitle": "{count}개 대출기관 재융자 금리 비교 — 매일 업데이트",
+    "asOf": "기준일",
+    "source": "출처: 연방준비제도 (FRED)"
+  },
+  "rates": {
+    "30yr": "30년 고정 재융자",
+    "15yr": "15년 고정 재융자",
+    "arm": "5/1 ARM 재융자",
+    "cashOut": "현금 인출 재융자",
+    "va": "VA IRRRL",
+    "fha": "FHA 간소화",
+    "jumbo": "점보 재융자",
+    "weekChange": "지난주 대비",
+    "apr": "연이율",
+    "points": "포인트"
+  },
+  "chart": {
+    "title": "52주 재융자 금리 추이",
+    "label30": "30년 고정",
+    "label15": "15년 고정",
+    "labelArm": "5/1 ARM",
+    "loading": "차트 데이터 로딩 중..."
+  },
+  "lenders": {
+    "title": "재융자 대출기관 비교",
+    "subtitle": "오늘의 최저 재융자 금리",
+    "sortBy": "정렬 기준",
+    "rate": "금리",
+    "lender": "대출기관",
+    "apply": "신청하기",
+    "viewAll": "모든 대출기관 보기",
+    "minCredit": "최소 신용점수",
+    "minEquity": "최소 자기자본"
+  },
+  "calculator": {
+    "title": "재융자 절감액 계산기",
+    "currentBalance": "현재 대출 잔액",
+    "currentRate": "현재 금리 (%)",
+    "currentTerm": "남은 기간 (개월)",
+    "newRate": "새 금리 (%)",
+    "newTerm": "새 기간 (개월)",
+    "closingCosts": "예상 마감 비용",
+    "calculate": "절감액 계산",
+    "monthlySavings": "월 절감액",
+    "breakEven": "손익분기점",
+    "lifetimeSavings": "평생 절감액",
+    "newPayment": "새 월 납부액",
+    "currentPayment": "현재 월 납부액",
+    "useTodayRate": "오늘 금리 사용"
+  },
+  "footer": {
+    "visitorToday": "오늘 방문자",
+    "visitorTotal": "총 방문자",
+    "disclaimer": "금리는 참고용이며 실제 조건은 대출기관에 문의하세요.",
+    "copyright": "© 2026 RefiRateBoard. 모든 권리 보유."
+  },
+  "states": {
+    "title": "주별 재융자 금리",
+    "subtitle": "귀하의 주에서 재융자 금리 찾기",
+    "viewRates": "금리 보기",
+    "avgRate": "평균 재융자 금리",
+    "closingCost": "예상 마감 비용"
+  },
+  "meta": {
+    "homeTitle": "오늘의 재융자 금리 (2026년 4월) — 30년, 15년, ARM | RefiRateBoard",
+    "homeDesc": "상위 대출기관의 오늘 재융자 금리를 비교하세요. 30년, 15년, 현금 인출, VA, FHA 재융자 금리 매일 업데이트.",
+    "lendersTitle": "재융자 대출기관 비교 | RefiRateBoard",
+    "calculatorTitle": "재융자 계산기 — 월 절감액 및 손익분기점 | RefiRateBoard",
+    "statesTitle": "주별 재융자 금리 | RefiRateBoard"
+  }
+}

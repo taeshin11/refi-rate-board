@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "lenders": "貸し手",
+    "states": "州別金利",
+    "calculator": "計算機",
+    "loanTypes": "ローン種別",
+    "whenToRefi": "借り換えのタイミング"
+  },
+  "hero": {
+    "title": "今日の住宅ローン借り換え金利",
+    "subtitle": "{count}社の借り換え金利を比較 — 毎日更新",
+    "asOf": "金利基準日",
+    "source": "出典: 連邦準備制度 (FRED)"
+  },
+  "rates": {
+    "30yr": "30年固定借り換え",
+    "15yr": "15年固定借り換え",
+    "arm": "5/1 ARM借り換え",
+    "cashOut": "キャッシュアウト借り換え",
+    "va": "VA IRRRL",
+    "fha": "FHAストリームライン",
+    "jumbo": "ジャンボ借り換え",
+    "weekChange": "先週比",
+    "apr": "年利",
+    "points": "ポイント"
+  },
+  "chart": {
+    "title": "52週間借り換え金利推移",
+    "label30": "30年固定",
+    "label15": "15年固定",
+    "labelArm": "5/1 ARM",
+    "loading": "チャートデータを読み込み中..."
+  },
+  "lenders": {
+    "title": "借り換え貸し手を比較",
+    "subtitle": "大手貸し手の今日の最良借り換え金利",
+    "sortBy": "並び替え",
+    "rate": "金利",
+    "lender": "貸し手",
+    "apply": "今すぐ申請",
+    "viewAll": "すべての貸し手を見る",
+    "minCredit": "最低クレジットスコア",
+    "minEquity": "最低自己資本"
+  },
+  "calculator": {
+    "title": "借り換え節約計算機",
+    "currentBalance": "現在のローン残高",
+    "currentRate": "現在の金利 (%)",
+    "currentTerm": "残り期間 (ヶ月)",
+    "newRate": "新しい金利 (%)",
+    "newTerm": "新しい期間 (ヶ月)",
+    "closingCosts": "推定クロージングコスト",
+    "calculate": "節約額を計算",
+    "monthlySavings": "月間節約額",
+    "breakEven": "損益分岐点",
+    "lifetimeSavings": "総節約額",
+    "newPayment": "新しい月額支払い",
+    "currentPayment": "現在の月額支払い",
+    "useTodayRate": "今日の金利を使用"
+  },
+  "footer": {
+    "visitorToday": "本日の訪問者",
+    "visitorTotal": "総訪問者",
+    "disclaimer": "金利は参考用です。実際の条件は貸し手にお問い合わせください。",
+    "copyright": "© 2026 RefiRateBoard. 全著作権所有。"
+  },
+  "states": {
+    "title": "州別借り換え金利",
+    "subtitle": "お住まいの州の借り換え金利を見つける",
+    "viewRates": "金利を見る",
+    "avgRate": "平均借り換え金利",
+    "closingCost": "推定クロージングコスト"
+  },
+  "meta": {
+    "homeTitle": "今日の借り換え金利 (2026年4月) — 30年、15年、ARM | RefiRateBoard",
+    "homeDesc": "大手貸し手の今日の借り換え金利を比較。30年、15年、キャッシュアウト、VA、FHA借り換え金利を毎日更新。",
+    "lendersTitle": "借り換え貸し手を比較 | RefiRateBoard",
+    "calculatorTitle": "借り換え計算機 — 月間節約と損益分岐点 | RefiRateBoard",
+    "statesTitle": "州別借り換え金利 | RefiRateBoard"
+  }
+}

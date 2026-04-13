@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "lenders": "Prestamistas",
+    "states": "Por Estado",
+    "calculator": "Calculadora",
+    "loanTypes": "Tipos de Préstamo",
+    "whenToRefi": "Cuándo Refinanciar"
+  },
+  "hero": {
+    "title": "Tasas de Refinanciamiento Hipotecario de Hoy",
+    "subtitle": "Compara tasas de {count} prestamistas — actualizado diariamente",
+    "asOf": "Tasas al",
+    "source": "Fuente: Reserva Federal (FRED)"
+  },
+  "rates": {
+    "30yr": "Refi a 30 años fijo",
+    "15yr": "Refi a 15 años fijo",
+    "arm": "Refi ARM 5/1",
+    "cashOut": "Refi con retiro de efectivo",
+    "va": "VA IRRRL",
+    "fha": "FHA Simplificado",
+    "jumbo": "Refi Jumbo",
+    "weekChange": "vs semana pasada",
+    "apr": "TAE",
+    "points": "Puntos"
+  },
+  "chart": {
+    "title": "Tendencia de Tasas de Refinanciamiento 52 Semanas",
+    "label30": "30 años fijo",
+    "label15": "15 años fijo",
+    "labelArm": "ARM 5/1",
+    "loading": "Cargando datos del gráfico..."
+  },
+  "lenders": {
+    "title": "Comparar Prestamistas de Refinanciamiento",
+    "subtitle": "Las mejores tasas de refinanciamiento de los principales prestamistas",
+    "sortBy": "Ordenar por",
+    "rate": "Tasa",
+    "lender": "Prestamista",
+    "apply": "Solicitar Ahora",
+    "viewAll": "Ver Todos los Prestamistas",
+    "minCredit": "Puntuación Mínima",
+    "minEquity": "Capital Mínimo"
+  },
+  "calculator": {
+    "title": "Calculadora de Ahorros de Refinanciamiento",
+    "currentBalance": "Saldo Actual del Préstamo",
+    "currentRate": "Tasa Actual (%)",
+    "currentTerm": "Plazo Restante (meses)",
+    "newRate": "Nueva Tasa (%)",
+    "newTerm": "Nuevo Plazo (meses)",
+    "closingCosts": "Costos de Cierre Estimados",
+    "calculate": "Calcular Ahorros",
+    "monthlySavings": "Ahorro Mensual",
+    "breakEven": "Punto de Equilibrio en",
+    "lifetimeSavings": "Ahorro Total",
+    "newPayment": "Nuevo Pago Mensual",
+    "currentPayment": "Pago Mensual Actual",
+    "useTodayRate": "Usar Tasa de Hoy"
+  },
+  "footer": {
+    "visitorToday": "Visitantes hoy",
+    "visitorTotal": "Total de visitantes",
+    "disclaimer": "Las tasas son solo para referencia. Contacte directamente a los prestamistas para cotizaciones personalizadas.",
+    "copyright": "© 2026 RefiRateBoard. Todos los derechos reservados."
+  },
+  "states": {
+    "title": "Tasas de Refinanciamiento por Estado",
+    "subtitle": "Encuentre tasas de refinanciamiento en su estado",
+    "viewRates": "Ver Tasas",
+    "avgRate": "Tasa Promedio de Refi",
+    "closingCost": "Costo de Cierre Est."
+  },
+  "meta": {
+    "homeTitle": "Tasas de Refinanciamiento de Hoy (Abril 2026) — 30, 15 años y ARM | RefiRateBoard",
+    "homeDesc": "Compare las tasas de refinanciamiento de hoy de los principales prestamistas. Tasas a 30, 15 años, retiro de efectivo, VA y FHA actualizadas diariamente.",
+    "lendersTitle": "Comparar Prestamistas de Refinanciamiento | RefiRateBoard",
+    "calculatorTitle": "Calculadora de Refinanciamiento | RefiRateBoard",
+    "statesTitle": "Tasas de Refinanciamiento por Estado | RefiRateBoard"
+  }
+}

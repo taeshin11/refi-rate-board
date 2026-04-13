@@ -1,0 +1,14 @@
+[
+  {"slug":"better-mortgage","name":"Better Mortgage","refi30yr":6.875,"refi15yr":6.125,"cashOutRate":7.125,"jumboRate":7.0,"vaRefi":6.25,"fhaRefi":6.5,"applyUrl":"https://better.com/refinance","logo":"✨","minCredit":620,"minEquity":20},
+  {"slug":"rocket-mortgage","name":"Rocket Mortgage","refi30yr":6.99,"refi15yr":6.25,"cashOutRate":7.25,"jumboRate":7.125,"vaRefi":6.375,"fhaRefi":6.625,"applyUrl":"https://www.rocketmortgage.com/refinance","logo":"🚀","minCredit":620,"minEquity":20},
+  {"slug":"sofi","name":"SoFi","refi30yr":6.875,"refi15yr":6.125,"cashOutRate":7.125,"jumboRate":6.99,"vaRefi":6.25,"fhaRefi":6.5,"applyUrl":"https://www.sofi.com/home-loans/mortgage-refinance","logo":"💎","minCredit":660,"minEquity":20},
+  {"slug":"loandepot","name":"LoanDepot","refi30yr":7.0,"refi15yr":6.25,"cashOutRate":7.25,"jumboRate":7.125,"vaRefi":6.375,"fhaRefi":6.625,"applyUrl":"https://www.loandepot.com/refinance","logo":"🏠","minCredit":620,"minEquity":15},
+  {"slug":"pennymac","name":"PennyMac","refi30yr":6.825,"refi15yr":6.0,"cashOutRate":7.075,"jumboRate":6.99,"vaRefi":6.2,"fhaRefi":6.45,"applyUrl":"https://www.pennymacusa.com/refinance","logo":"🏘","minCredit":620,"minEquity":20},
+  {"slug":"newrez","name":"NewRez","refi30yr":6.95,"refi15yr":6.2,"cashOutRate":7.2,"jumboRate":7.075,"vaRefi":6.325,"fhaRefi":6.575,"applyUrl":"https://www.newrez.com/refinance","logo":"🏡","minCredit":620,"minEquity":20},
+  {"slug":"freedom-mortgage","name":"Freedom Mortgage","refi30yr":6.875,"refi15yr":6.125,"cashOutRate":7.0,"jumboRate":7.0,"vaRefi":6.125,"fhaRefi":6.375,"applyUrl":"https://www.freedommortgage.com/refinance","logo":"🗽","minCredit":600,"minEquity":20},
+  {"slug":"rate","name":"Rate (Guaranteed Rate)","refi30yr":7.0,"refi15yr":6.25,"cashOutRate":7.25,"jumboRate":7.125,"vaRefi":6.375,"fhaRefi":6.625,"applyUrl":"https://www.rate.com/refinance","logo":"📊","minCredit":620,"minEquity":20},
+  {"slug":"amerisave","name":"AmeriSave","refi30yr":6.85,"refi15yr":6.1,"cashOutRate":7.1,"jumboRate":7.0,"vaRefi":6.25,"fhaRefi":6.5,"applyUrl":"https://www.amerisave.com/refinance","logo":"🏦","minCredit":620,"minEquity":20},
+  {"slug":"spring-eq","name":"Spring EQ","refi30yr":7.1,"refi15yr":6.375,"cashOutRate":7.25,"jumboRate":7.25,"vaRefi":6.5,"fhaRefi":6.75,"applyUrl":"https://www.springeq.com","logo":"🌱","minCredit":680,"minEquity":10},
+  {"slug":"figure","name":"Figure","refi30yr":7.05,"refi15yr":6.35,"cashOutRate":7.2,"jumboRate":7.15,"vaRefi":6.45,"fhaRefi":6.7,"applyUrl":"https://www.figure.com/refinance","logo":"📐","minCredit":640,"minEquity":20},
+  {"slug":"crosscountry-mortgage","name":"CrossCountry Mortgage","refi30yr":6.95,"refi15yr":6.2,"cashOutRate":7.15,"jumboRate":7.075,"vaRefi":6.3,"fhaRefi":6.55,"applyUrl":"https://www.crosscountrymortgage.com/refinance","logo":"🔄","minCredit":580,"minEquity":20}
+]

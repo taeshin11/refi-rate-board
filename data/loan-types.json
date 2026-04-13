@@ -1,0 +1,9 @@
+[
+  {"slug":"rate-and-term","name":"Rate-and-Term Refi","key":"refi30yr","description":"Lower your interest rate or change your loan term without taking cash out. The most common refinance type."},
+  {"slug":"cash-out","name":"Cash-Out Refinance","key":"cashOutRate","description":"Refinance for more than you owe and take the difference as cash. Use it for home improvements, debt consolidation, or major expenses."},
+  {"slug":"fha-streamline","name":"FHA Streamline Refi","key":"fhaRefi","description":"Simplified refinance for existing FHA borrowers with less paperwork and no appraisal required. Reduce your rate quickly."},
+  {"slug":"va-irrrl","name":"VA IRRRL","key":"vaRefi","description":"Interest Rate Reduction Refinance Loan for eligible veterans. Minimal documentation and no appraisal required in most cases."},
+  {"slug":"conventional","name":"Conventional Refi","key":"refi30yr","description":"Standard refinance with no government backing. Best for borrowers with good credit and 20%+ equity."},
+  {"slug":"jumbo-refi","name":"Jumbo Refinance","key":"jumboRate","description":"Refinance for loan amounts above conforming limits ($806,500 in most areas). Requires strong credit and significant equity."},
+  {"slug":"15-year-refi","name":"15-Year Refi","key":"refi15yr","description":"Switch to a 15-year term to pay off your home faster and build equity quickly. Save significantly on total interest."}
+]
