@@ -12,7 +12,7 @@ export function Footer({ locale }: FooterProps) {
   return (
     <footer className="bg-white border-t border-cyan-100 mt-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div>
             <h3 className="font-bold text-gray-900 mb-3">RefiRateBoard</h3>
             <p className="text-sm text-gray-500">
@@ -28,6 +28,23 @@ export function Footer({ locale }: FooterProps) {
                 { href: `/${locale}/loan-types`, label: 'Refi Types' },
                 { href: `/${locale}/calculator`, label: 'Break-Even Calculator' },
                 { href: `/${locale}/when-to-refi`, label: 'When to Refi?' },
+              ].map((link) => (
+                <li key={link.href}>
+                  <Link href={link.href} className="text-sm text-gray-500 hover:text-cyan-600">
+                    {link.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+          <div>
+            <h4 className="font-semibold text-gray-700 mb-3">Company</h4>
+            <ul className="space-y-1">
+              {[
+                { href: `/${locale}/about`, label: 'About Us' },
+                { href: `/${locale}/how-to-use`, label: 'How to Use' },
+                { href: `/${locale}/privacy`, label: 'Privacy Policy' },
+                { href: `/${locale}/terms`, label: 'Terms of Use' },
               ].map((link) => (
                 <li key={link.href}>
                   <Link href={link.href} className="text-sm text-gray-500 hover:text-cyan-600">

@@ -16,6 +16,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     routes.push({ url: `${BASE_URL}/${locale}/loan-types`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 });
     routes.push({ url: `${BASE_URL}/${locale}/calculator`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7 });
     routes.push({ url: `${BASE_URL}/${locale}/when-to-refi`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7 });
+    routes.push({ url: `${BASE_URL}/${locale}/about`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 });
+    routes.push({ url: `${BASE_URL}/${locale}/how-to-use`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.6 });
+    routes.push({ url: `${BASE_URL}/${locale}/privacy`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.3 });
+    routes.push({ url: `${BASE_URL}/${locale}/terms`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.3 });
     for (const s of states) routes.push({ url: `${BASE_URL}/${locale}/states/${s.slug}`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.6 });
     for (const l of lenders) routes.push({ url: `${BASE_URL}/${locale}/lenders/${l.slug}`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.7 });
     for (const lt of loanTypes) routes.push({ url: `${BASE_URL}/${locale}/loan-types/${lt.slug}`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.65 });

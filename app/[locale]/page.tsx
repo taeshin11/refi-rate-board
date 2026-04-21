@@ -10,6 +10,9 @@ import { fetchFredSeries } from '@/lib/fred';
 import { getLenders } from '@/lib/lenders';
 import { routing } from '@/i18n/routing';
 
+import { AdsterraNativeBanner } from '@/components/ads/AdsterraNativeBanner';
+import { AdsterraDisplay } from '@/components/ads/AdsterraDisplay';
+
 export async function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
@@ -220,6 +223,8 @@ export default async function HomePage({
           </a>
         </div>
       </section>
+      <AdsterraNativeBanner />
+      <AdsterraDisplay />
 
       {/* FAQ */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-16">

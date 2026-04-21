@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  verification: {
+    google: "WddgcbVJsL2BGHNAje5m6DK56IcR0Mw5UOqozI2Xtrc",
+  },
   title: "RefiRateBoard — Today's Refinance Rates",
   description: "Compare refinance rates from top lenders. Current 30-year, 15-year, cash-out, and VA refi rates updated daily.",
 };

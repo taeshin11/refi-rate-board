@@ -1,8 +1,7 @@
-import { MetadataRoute } from 'next';
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://refi-rate-board.vercel.app';
+import type { MetadataRoute } from 'next';
 export default function robots(): MetadataRoute.Robots {
   return {
-    rules: { userAgent: '*', allow: '/' },
-    sitemap: `${BASE_URL}/sitemap.xml`,
+    rules: [{ userAgent: '*', allow: '/' }],
+    sitemap: 'https://refi-rate-board.vercel.app/sitemap.xml',
   };
 }
