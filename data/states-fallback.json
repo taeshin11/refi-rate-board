@@ -1,52 +1,452 @@
 [
-  {"name":"Alabama","slug":"alabama","abbr":"AL","avgRefi30yr":7.02,"avgRefi15yr":6.28,"closingCostEstimate":5200},
-  {"name":"Alaska","slug":"alaska","abbr":"AK","avgRefi30yr":6.98,"avgRefi15yr":6.22,"closingCostEstimate":5800},
-  {"name":"Arizona","slug":"arizona","abbr":"AZ","avgRefi30yr":6.95,"avgRefi15yr":6.19,"closingCostEstimate":4800},
-  {"name":"Arkansas","slug":"arkansas","abbr":"AR","avgRefi30yr":7.05,"avgRefi15yr":6.31,"closingCostEstimate":4500},
-  {"name":"California","slug":"california","abbr":"CA","avgRefi30yr":6.85,"avgRefi15yr":6.09,"closingCostEstimate":7500},
-  {"name":"Colorado","slug":"colorado","abbr":"CO","avgRefi30yr":6.92,"avgRefi15yr":6.16,"closingCostEstimate":5200},
-  {"name":"Connecticut","slug":"connecticut","abbr":"CT","avgRefi30yr":7.0,"avgRefi15yr":6.24,"closingCostEstimate":6200},
-  {"name":"Delaware","slug":"delaware","abbr":"DE","avgRefi30yr":6.99,"avgRefi15yr":6.23,"closingCostEstimate":5500},
-  {"name":"Florida","slug":"florida","abbr":"FL","avgRefi30yr":6.97,"avgRefi15yr":6.21,"closingCostEstimate":5800},
-  {"name":"Georgia","slug":"georgia","abbr":"GA","avgRefi30yr":6.98,"avgRefi15yr":6.22,"closingCostEstimate":5100},
-  {"name":"Hawaii","slug":"hawaii","abbr":"HI","avgRefi30yr":6.88,"avgRefi15yr":6.12,"closingCostEstimate":8000},
-  {"name":"Idaho","slug":"idaho","abbr":"ID","avgRefi30yr":6.96,"avgRefi15yr":6.2,"closingCostEstimate":4800},
-  {"name":"Illinois","slug":"illinois","abbr":"IL","avgRefi30yr":7.01,"avgRefi15yr":6.25,"closingCostEstimate":5900},
-  {"name":"Indiana","slug":"indiana","abbr":"IN","avgRefi30yr":7.03,"avgRefi15yr":6.27,"closingCostEstimate":4600},
-  {"name":"Iowa","slug":"iowa","abbr":"IA","avgRefi30yr":7.04,"avgRefi15yr":6.28,"closingCostEstimate":4400},
-  {"name":"Kansas","slug":"kansas","abbr":"KS","avgRefi30yr":7.02,"avgRefi15yr":6.26,"closingCostEstimate":4500},
-  {"name":"Kentucky","slug":"kentucky","abbr":"KY","avgRefi30yr":7.05,"avgRefi15yr":6.29,"closingCostEstimate":4700},
-  {"name":"Louisiana","slug":"louisiana","abbr":"LA","avgRefi30yr":7.08,"avgRefi15yr":6.32,"closingCostEstimate":5300},
-  {"name":"Maine","slug":"maine","abbr":"ME","avgRefi30yr":7.01,"avgRefi15yr":6.25,"closingCostEstimate":5100},
-  {"name":"Maryland","slug":"maryland","abbr":"MD","avgRefi30yr":6.97,"avgRefi15yr":6.21,"closingCostEstimate":6500},
-  {"name":"Massachusetts","slug":"massachusetts","abbr":"MA","avgRefi30yr":6.95,"avgRefi15yr":6.19,"closingCostEstimate":7000},
-  {"name":"Michigan","slug":"michigan","abbr":"MI","avgRefi30yr":7.0,"avgRefi15yr":6.24,"closingCostEstimate":5200},
-  {"name":"Minnesota","slug":"minnesota","abbr":"MN","avgRefi30yr":6.99,"avgRefi15yr":6.23,"closingCostEstimate":5000},
-  {"name":"Mississippi","slug":"mississippi","abbr":"MS","avgRefi30yr":7.1,"avgRefi15yr":6.34,"closingCostEstimate":4600},
-  {"name":"Missouri","slug":"missouri","abbr":"MO","avgRefi30yr":7.02,"avgRefi15yr":6.26,"closingCostEstimate":4700},
-  {"name":"Montana","slug":"montana","abbr":"MT","avgRefi30yr":6.98,"avgRefi15yr":6.22,"closingCostEstimate":4800},
-  {"name":"Nebraska","slug":"nebraska","abbr":"NE","avgRefi30yr":7.03,"avgRefi15yr":6.27,"closingCostEstimate":4500},
-  {"name":"Nevada","slug":"nevada","abbr":"NV","avgRefi30yr":6.96,"avgRefi15yr":6.2,"closingCostEstimate":5200},
-  {"name":"New Hampshire","slug":"new-hampshire","abbr":"NH","avgRefi30yr":6.98,"avgRefi15yr":6.22,"closingCostEstimate":5600},
-  {"name":"New Jersey","slug":"new-jersey","abbr":"NJ","avgRefi30yr":7.01,"avgRefi15yr":6.25,"closingCostEstimate":6800},
-  {"name":"New Mexico","slug":"new-mexico","abbr":"NM","avgRefi30yr":7.0,"avgRefi15yr":6.24,"closingCostEstimate":4900},
-  {"name":"New York","slug":"new-york","abbr":"NY","avgRefi30yr":6.93,"avgRefi15yr":6.17,"closingCostEstimate":8500},
-  {"name":"North Carolina","slug":"north-carolina","abbr":"NC","avgRefi30yr":6.99,"avgRefi15yr":6.23,"closingCostEstimate":5200},
-  {"name":"North Dakota","slug":"north-dakota","abbr":"ND","avgRefi30yr":7.04,"avgRefi15yr":6.28,"closingCostEstimate":4300},
-  {"name":"Ohio","slug":"ohio","abbr":"OH","avgRefi30yr":7.01,"avgRefi15yr":6.25,"closingCostEstimate":4900},
-  {"name":"Oklahoma","slug":"oklahoma","abbr":"OK","avgRefi30yr":7.06,"avgRefi15yr":6.3,"closingCostEstimate":4600},
-  {"name":"Oregon","slug":"oregon","abbr":"OR","avgRefi30yr":6.9,"avgRefi15yr":6.14,"closingCostEstimate":5500},
-  {"name":"Pennsylvania","slug":"pennsylvania","abbr":"PA","avgRefi30yr":7.0,"avgRefi15yr":6.24,"closingCostEstimate":5800},
-  {"name":"Rhode Island","slug":"rhode-island","abbr":"RI","avgRefi30yr":7.0,"avgRefi15yr":6.24,"closingCostEstimate":5700},
-  {"name":"South Carolina","slug":"south-carolina","abbr":"SC","avgRefi30yr":7.01,"avgRefi15yr":6.25,"closingCostEstimate":5000},
-  {"name":"South Dakota","slug":"south-dakota","abbr":"SD","avgRefi30yr":7.03,"avgRefi15yr":6.27,"closingCostEstimate":4400},
-  {"name":"Tennessee","slug":"tennessee","abbr":"TN","avgRefi30yr":7.0,"avgRefi15yr":6.24,"closingCostEstimate":4800},
-  {"name":"Texas","slug":"texas","abbr":"TX","avgRefi30yr":7.02,"avgRefi15yr":6.26,"closingCostEstimate":5600},
-  {"name":"Utah","slug":"utah","abbr":"UT","avgRefi30yr":6.93,"avgRefi15yr":6.17,"closingCostEstimate":4900},
-  {"name":"Vermont","slug":"vermont","abbr":"VT","avgRefi30yr":7.02,"avgRefi15yr":6.26,"closingCostEstimate":5200},
-  {"name":"Virginia","slug":"virginia","abbr":"VA","avgRefi30yr":6.96,"avgRefi15yr":6.2,"closingCostEstimate":5800},
-  {"name":"Washington","slug":"washington","abbr":"WA","avgRefi30yr":6.88,"avgRefi15yr":6.12,"closingCostEstimate":5800},
-  {"name":"West Virginia","slug":"west-virginia","abbr":"WV","avgRefi30yr":7.08,"avgRefi15yr":6.32,"closingCostEstimate":4500},
-  {"name":"Wisconsin","slug":"wisconsin","abbr":"WI","avgRefi30yr":7.0,"avgRefi15yr":6.24,"closingCostEstimate":4800},
-  {"name":"Wyoming","slug":"wyoming","abbr":"WY","avgRefi30yr":7.05,"avgRefi15yr":6.29,"closingCostEstimate":4400}
+  {
+    "name": "Alabama",
+    "slug": "alabama",
+    "abbr": "AL",
+    "avgRefi30yr": 6.72,
+    "avgRefi15yr": 5.98,
+    "closingCostEstimate": 5200,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Alaska",
+    "slug": "alaska",
+    "abbr": "AK",
+    "avgRefi30yr": 6.68,
+    "avgRefi15yr": 5.92,
+    "closingCostEstimate": 5800,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Arizona",
+    "slug": "arizona",
+    "abbr": "AZ",
+    "avgRefi30yr": 6.65,
+    "avgRefi15yr": 5.89,
+    "closingCostEstimate": 4800,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Arkansas",
+    "slug": "arkansas",
+    "abbr": "AR",
+    "avgRefi30yr": 6.75,
+    "avgRefi15yr": 6.01,
+    "closingCostEstimate": 4500,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "California",
+    "slug": "california",
+    "abbr": "CA",
+    "avgRefi30yr": 6.55,
+    "avgRefi15yr": 5.79,
+    "closingCostEstimate": 7500,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Colorado",
+    "slug": "colorado",
+    "abbr": "CO",
+    "avgRefi30yr": 6.62,
+    "avgRefi15yr": 5.86,
+    "closingCostEstimate": 5200,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Connecticut",
+    "slug": "connecticut",
+    "abbr": "CT",
+    "avgRefi30yr": 6.7,
+    "avgRefi15yr": 5.94,
+    "closingCostEstimate": 6200,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Delaware",
+    "slug": "delaware",
+    "abbr": "DE",
+    "avgRefi30yr": 6.69,
+    "avgRefi15yr": 5.93,
+    "closingCostEstimate": 5500,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Florida",
+    "slug": "florida",
+    "abbr": "FL",
+    "avgRefi30yr": 6.67,
+    "avgRefi15yr": 5.91,
+    "closingCostEstimate": 5800,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Georgia",
+    "slug": "georgia",
+    "abbr": "GA",
+    "avgRefi30yr": 6.68,
+    "avgRefi15yr": 5.92,
+    "closingCostEstimate": 5100,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Hawaii",
+    "slug": "hawaii",
+    "abbr": "HI",
+    "avgRefi30yr": 6.58,
+    "avgRefi15yr": 5.82,
+    "closingCostEstimate": 8000,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Idaho",
+    "slug": "idaho",
+    "abbr": "ID",
+    "avgRefi30yr": 6.66,
+    "avgRefi15yr": 5.9,
+    "closingCostEstimate": 4800,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Illinois",
+    "slug": "illinois",
+    "abbr": "IL",
+    "avgRefi30yr": 6.71,
+    "avgRefi15yr": 5.95,
+    "closingCostEstimate": 5900,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Indiana",
+    "slug": "indiana",
+    "abbr": "IN",
+    "avgRefi30yr": 6.73,
+    "avgRefi15yr": 5.97,
+    "closingCostEstimate": 4600,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Iowa",
+    "slug": "iowa",
+    "abbr": "IA",
+    "avgRefi30yr": 6.74,
+    "avgRefi15yr": 5.98,
+    "closingCostEstimate": 4400,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Kansas",
+    "slug": "kansas",
+    "abbr": "KS",
+    "avgRefi30yr": 6.72,
+    "avgRefi15yr": 5.96,
+    "closingCostEstimate": 4500,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Kentucky",
+    "slug": "kentucky",
+    "abbr": "KY",
+    "avgRefi30yr": 6.75,
+    "avgRefi15yr": 5.99,
+    "closingCostEstimate": 4700,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Louisiana",
+    "slug": "louisiana",
+    "abbr": "LA",
+    "avgRefi30yr": 6.78,
+    "avgRefi15yr": 6.02,
+    "closingCostEstimate": 5300,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Maine",
+    "slug": "maine",
+    "abbr": "ME",
+    "avgRefi30yr": 6.71,
+    "avgRefi15yr": 5.95,
+    "closingCostEstimate": 5100,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Maryland",
+    "slug": "maryland",
+    "abbr": "MD",
+    "avgRefi30yr": 6.67,
+    "avgRefi15yr": 5.91,
+    "closingCostEstimate": 6500,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Massachusetts",
+    "slug": "massachusetts",
+    "abbr": "MA",
+    "avgRefi30yr": 6.65,
+    "avgRefi15yr": 5.89,
+    "closingCostEstimate": 7000,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Michigan",
+    "slug": "michigan",
+    "abbr": "MI",
+    "avgRefi30yr": 6.7,
+    "avgRefi15yr": 5.94,
+    "closingCostEstimate": 5200,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Minnesota",
+    "slug": "minnesota",
+    "abbr": "MN",
+    "avgRefi30yr": 6.69,
+    "avgRefi15yr": 5.93,
+    "closingCostEstimate": 5000,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Mississippi",
+    "slug": "mississippi",
+    "abbr": "MS",
+    "avgRefi30yr": 6.8,
+    "avgRefi15yr": 6.04,
+    "closingCostEstimate": 4600,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Missouri",
+    "slug": "missouri",
+    "abbr": "MO",
+    "avgRefi30yr": 6.72,
+    "avgRefi15yr": 5.96,
+    "closingCostEstimate": 4700,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Montana",
+    "slug": "montana",
+    "abbr": "MT",
+    "avgRefi30yr": 6.68,
+    "avgRefi15yr": 5.92,
+    "closingCostEstimate": 4800,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Nebraska",
+    "slug": "nebraska",
+    "abbr": "NE",
+    "avgRefi30yr": 6.73,
+    "avgRefi15yr": 5.97,
+    "closingCostEstimate": 4500,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Nevada",
+    "slug": "nevada",
+    "abbr": "NV",
+    "avgRefi30yr": 6.66,
+    "avgRefi15yr": 5.9,
+    "closingCostEstimate": 5200,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "New Hampshire",
+    "slug": "new-hampshire",
+    "abbr": "NH",
+    "avgRefi30yr": 6.68,
+    "avgRefi15yr": 5.92,
+    "closingCostEstimate": 5600,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "New Jersey",
+    "slug": "new-jersey",
+    "abbr": "NJ",
+    "avgRefi30yr": 6.71,
+    "avgRefi15yr": 5.95,
+    "closingCostEstimate": 6800,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "New Mexico",
+    "slug": "new-mexico",
+    "abbr": "NM",
+    "avgRefi30yr": 6.7,
+    "avgRefi15yr": 5.94,
+    "closingCostEstimate": 4900,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "New York",
+    "slug": "new-york",
+    "abbr": "NY",
+    "avgRefi30yr": 6.63,
+    "avgRefi15yr": 5.87,
+    "closingCostEstimate": 8500,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "North Carolina",
+    "slug": "north-carolina",
+    "abbr": "NC",
+    "avgRefi30yr": 6.69,
+    "avgRefi15yr": 5.93,
+    "closingCostEstimate": 5200,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "North Dakota",
+    "slug": "north-dakota",
+    "abbr": "ND",
+    "avgRefi30yr": 6.74,
+    "avgRefi15yr": 5.98,
+    "closingCostEstimate": 4300,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Ohio",
+    "slug": "ohio",
+    "abbr": "OH",
+    "avgRefi30yr": 6.71,
+    "avgRefi15yr": 5.95,
+    "closingCostEstimate": 4900,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Oklahoma",
+    "slug": "oklahoma",
+    "abbr": "OK",
+    "avgRefi30yr": 6.76,
+    "avgRefi15yr": 6.0,
+    "closingCostEstimate": 4600,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Oregon",
+    "slug": "oregon",
+    "abbr": "OR",
+    "avgRefi30yr": 6.6,
+    "avgRefi15yr": 5.84,
+    "closingCostEstimate": 5500,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Pennsylvania",
+    "slug": "pennsylvania",
+    "abbr": "PA",
+    "avgRefi30yr": 6.7,
+    "avgRefi15yr": 5.94,
+    "closingCostEstimate": 5800,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Rhode Island",
+    "slug": "rhode-island",
+    "abbr": "RI",
+    "avgRefi30yr": 6.7,
+    "avgRefi15yr": 5.94,
+    "closingCostEstimate": 5700,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "South Carolina",
+    "slug": "south-carolina",
+    "abbr": "SC",
+    "avgRefi30yr": 6.71,
+    "avgRefi15yr": 5.95,
+    "closingCostEstimate": 5000,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "South Dakota",
+    "slug": "south-dakota",
+    "abbr": "SD",
+    "avgRefi30yr": 6.73,
+    "avgRefi15yr": 5.97,
+    "closingCostEstimate": 4400,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Tennessee",
+    "slug": "tennessee",
+    "abbr": "TN",
+    "avgRefi30yr": 6.7,
+    "avgRefi15yr": 5.94,
+    "closingCostEstimate": 4800,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Texas",
+    "slug": "texas",
+    "abbr": "TX",
+    "avgRefi30yr": 6.72,
+    "avgRefi15yr": 5.96,
+    "closingCostEstimate": 5600,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Utah",
+    "slug": "utah",
+    "abbr": "UT",
+    "avgRefi30yr": 6.63,
+    "avgRefi15yr": 5.87,
+    "closingCostEstimate": 4900,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Vermont",
+    "slug": "vermont",
+    "abbr": "VT",
+    "avgRefi30yr": 6.72,
+    "avgRefi15yr": 5.96,
+    "closingCostEstimate": 5200,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Virginia",
+    "slug": "virginia",
+    "abbr": "VA",
+    "avgRefi30yr": 6.66,
+    "avgRefi15yr": 5.9,
+    "closingCostEstimate": 5800,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Washington",
+    "slug": "washington",
+    "abbr": "WA",
+    "avgRefi30yr": 6.58,
+    "avgRefi15yr": 5.82,
+    "closingCostEstimate": 5800,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "West Virginia",
+    "slug": "west-virginia",
+    "abbr": "WV",
+    "avgRefi30yr": 6.78,
+    "avgRefi15yr": 6.02,
+    "closingCostEstimate": 4500,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Wisconsin",
+    "slug": "wisconsin",
+    "abbr": "WI",
+    "avgRefi30yr": 6.7,
+    "avgRefi15yr": 5.94,
+    "closingCostEstimate": 4800,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "name": "Wyoming",
+    "slug": "wyoming",
+    "abbr": "WY",
+    "avgRefi30yr": 6.75,
+    "avgRefi15yr": 5.99,
+    "closingCostEstimate": 4400,
+    "lastUpdated": "2026-04-22"
+  }
 ]
